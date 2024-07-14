@@ -1,0 +1,34 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-6795695761160185/2802484939",
+      "main_ads_intertitial":"ca-app-pub-6795695761160185/8416853823",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"ca-app-pub-6795695761160185/8161664963",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"0",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "Insurance, Cryptocurrency",
+      "high_paying_keyword_2": "Real Estate, Health and Fitness",
+      "high_paying_keyword_3": "Online Learning, Digital Marketing",
+      "high_paying_keyword_4": "Online Banking, Make Money Online",
+      "high_paying_keyword_5": "Legal, Web Hosting",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Data": [
+    {
+      "name_category": "DJ Viral",
+      "title": "DJ Viral",
+      "image": "file:///android_asset/image/khalid.webp",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/paksakan_ibadah.mp3",
+      "lyrics": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْم</h1>\n<p>&nbsp;</p>\n<p style=\"text-align: justify;\">Ini adalah contoh text deskripsi/keterangan/lirik. Silahkan ubah dibagian <strong>audio.json-Data-Lyrics, </strong>bagian ini mendukung String atau format HTML.</p>"
+    }
+  ]
+}
